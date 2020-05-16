@@ -24,5 +24,5 @@ link: https://nckgdansk.github.io/gameofgdansk-audio/door-opens-and-shuts.mp3 <b
 source: [Harpsicord dream-enter2](https://freesound.org/people/zerolagtime/sounds/29625/) <br>
 link: https://nckgdansk.github.io/gameofgdansk-audio/harpsicord-dream-enter.mp3 <br>
 
-source: [Heart beat](https://freesound.org/people/greyseraphim/sounds/21409/)
-link: https://nckgdansk.github.io/gameofgdansk-audio/heart-beat.mp3 <br>
+source: [Heart beat](https://freesound.org/people/greyseraphim/sounds/21409/) <br>
+link: https://nckgdansk.github.io/gameofgdansk-audio/heart-beat.mp3
